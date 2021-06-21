@@ -10,6 +10,6 @@
 using namespace std;
 
 int main() {
-	cout << "!!!hola desde Windows -> linux!!!" << endl; // prints !!!Hello World!!!
+	cout << "!!! linux-> hola desde Windows -> linux!!!" << endl; // prints !!!Hello World!!!
 	return 0;
 }
